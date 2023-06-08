@@ -24,8 +24,10 @@ To implement Huffman coding to compress the data using Python.
 
  
 ## Program:
+```
 developed by :Bhavishya reddy mitta
 reg no: 212221230061
+```
 
 ``` Python
 # Get the input String
